@@ -1,0 +1,18 @@
+.squery {
+    position: relative;
+    background-image: linear-gradient(to top, #000, rgb(199, 195, 195));
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+.d1 {
+    position: absolute;
+    background-image: linear-gradient(#ff0000, #ff0);
+    width: 150px;
+    height: 150px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+   
+}
